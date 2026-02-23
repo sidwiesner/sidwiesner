@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi there, I'm Sid Wiesner
+
+CTO at [myAgro](https://www.myagro.org), where we help smallholder farmers in West Africa build pathways out of poverty. I lead the technology team building mobile and offline-first tools that reach 300,000+ farmers across Mali, Senegal, and Ivory Coast.
+
+Previously built and scaled engineering teams at Seegrid (autonomous vehicles), Wellbridge Health (healthcare IT), and Touchtown (senior living tech).
+
+**Georgia Tech** MS Computer Science · **West Virginia University** BS Computer Science
+
+[sidwiesner.com](https://sidwiesner.com) · [LinkedIn](https://www.linkedin.com/in/sidwiesner/)
 
 <!--
 **sidwiesner/sidwiesner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
